@@ -1,0 +1,18 @@
+:host {
+    border: #eee;
+    background-color: #ff1493;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  
+    &:hover {
+      background-color: #ff1493;
+    }
+  
+    &:active {
+      background-color: #ff1493;
+    }
+  }
