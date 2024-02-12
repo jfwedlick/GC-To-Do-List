@@ -46,6 +46,10 @@ main {
         text-decoration: line-through;
     }
 
+    .incomplete {
+        padding: 5px
+    }
+
 
     }
  
